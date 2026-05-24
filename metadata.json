@@ -1,0 +1,6 @@
+{
+  "name": "Laporan Kegiatan dan Kinerja Pegawai",
+  "description": "Sistem pencatatan laporan harian kegiatan pegawai dan penghitungan persentase kinerja harian dalam bentuk kalender dengan dukungan integrasi Google Sheets dan Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
